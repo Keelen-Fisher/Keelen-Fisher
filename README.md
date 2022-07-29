@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Keelen-Fisher/Keelen-Fisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![my great header](Keelen-Fisher.png)
+
+<p align="center> <a href = "https://www.linkedin.com/in/keelen-fisher-b63766148/" 
