@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey, welcome to My page! Feel free to checkout any of my work. Have fun!
+## Welcome to my page! Feel free to check out any of my work!
 
 ![Image of Banner](Keelen-Fisher.png)
 
 ![Keelen's github stats](https://github-readme-stats.vercel.app/api?username=Keelen-Fisher&theme=nightowl)
 
-### [Link to LikedIn](https://www.linkedin.com/in/keelen-fisher-b63766148/)
+### [My LikedIn](https://www.linkedin.com/in/keelen-fisher-b63766148/)
