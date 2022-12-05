@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Keelen's github stats](https://github-readme-stats.vercel.app/api?username=Keelen-Fisher&theme=nightowl)
 
-<a href="https://www.linkedin.com/in/keelen-fisher-b63766148/"><img src="LinkedIn.png"></a>
+<a href="https://www.linkedin.com/in/keelen-fisher-b63766148/"><img src="icons8_linkedin.svg"></a>
