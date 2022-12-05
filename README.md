@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![my great header](Keelen-Fisher.png)
 
-<p align="center> <a href = "https://www.linkedin.com/in/keelen-fisher-b63766148/" 
+<p align="center"> <a href = "https://www.linkedin.com/in/keelen-fisher-b63766148/">
